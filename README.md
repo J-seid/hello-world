@@ -1,2 +1,2 @@
 # hello-world
-This respository for practice
+## This is the beginning of my journey
